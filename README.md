@@ -3,7 +3,7 @@ API desenvolvida em FastAPI para realizar operações CRUD de cadastro e gestão
 
 ## Pré-requisitos
 - Python 3.10 ou superior
-- Pip (gerenciador de pacotes do Python)
+- pip (gerenciador de pacotes do Python)
 
 ## Instalação
 
@@ -13,3 +13,12 @@ API desenvolvida em FastAPI para realizar operações CRUD de cadastro e gestão
    ```bash
    git clone https://github.com/lucasperfetti/Case-de-Backend.git
    cd Case-de-Backend
+   ```
+2. Criando um ambiente virtual para o projeto:
+```bash
+# Para Windows
+py -m venv venv
+
+# Para macOS e Linux
+python3 -m venv venv
+```
