@@ -1,0 +1,12 @@
+# Ambiente virtual
+venv/
+.venv/
+
+# Arquivos de banco de dados SQLite
+*.db
+__pycache__/
+*.py[cod]
+
+# Configurações específicas do sistema operacional
+.DS_Store
+Thumbs.db
