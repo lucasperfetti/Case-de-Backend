@@ -7,8 +7,6 @@ API desenvolvida em FastAPI para realizar operações CRUD de cadastro e gestão
 
 ## Instalação
 
-### Windows
-
 1. Clone o repositório
 ```bash
 git clone https://github.com/lucasperfetti/Case-de-Backend.git
