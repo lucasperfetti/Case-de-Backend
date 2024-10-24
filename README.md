@@ -44,3 +44,6 @@ uvicorn main:app --reload
 ```bash
 http://127.0.0.1:8000/docs
 ```
+
+Interface para operações de CRUD
+v![image](https://github.com/user-attachments/assets/7efbeb76-e37e-4b4d-9af2-04ab3c6f8559)
